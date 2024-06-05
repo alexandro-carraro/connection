@@ -1,3 +1,3 @@
-@cd C:\Users\Alexandro.Carraro\Downloads\Prenota bot\WPy64-31180\n\confirmation-project-main
-@set PATH=C:\Users\Alexandro.Carraro\Downloads\Prenota bot\WPy64-31180\n;%PATH%
+@cd C:\Users\Alexandro.Carraro\Downloads\cmder\confirmation-project
+@set PATH=C:\Users\Alexandro.Carraro\Downloads\cmder\bin\v22.2.0;%PATH%
 @cmd.exe /K
